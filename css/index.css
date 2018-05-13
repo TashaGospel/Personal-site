@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+section.front {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #272822;
+    background-size: cover;
+    color: #F92672;
+    font: 28px Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    vertical-align: center;
+}
+
+section.front > p {
+    margin: 0;
+    vertical-align: center;
+}
+
+section.front {
+    /*position: fixed;*/
+    /*z-index: -1;*/
+    /*width: 100%;*/
+    background-attachment: fixed;
+}
+
+section.main {
+    color: #F92672;
+}
