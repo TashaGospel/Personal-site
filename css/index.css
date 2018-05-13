@@ -10,7 +10,7 @@ section.front {
     background-color: #272822;
     background-size: cover;
     color: #F92672;
-    font: 28px Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font: 28px "Open Sans", Arial, sans-serif;
     text-align: center;
     vertical-align: center;
 }
@@ -27,6 +27,8 @@ section.front {
     background-attachment: fixed;
 }
 
-section.main {
+section {
     color: #F92672;
+    font: 18px "Open Sans", Arial, sans-serif;
 }
+
