@@ -32,3 +32,6 @@ section {
     font: 18px "Open Sans", Arial, sans-serif;
 }
 
+h2 {
+    display: none;
+}
